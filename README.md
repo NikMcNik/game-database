@@ -2,10 +2,11 @@
 # Click on the link for the file you want to download!
 #		
 		
-___________3d-stunt-pilot.swf
+<a href="___________3d-stunt-pilot.swf">
+
  
  
-___________5-miles-2-go.swf
+<a href="___________5-miles-2-go.swf">
  
  
 ______________18-wheeler-3.swf
