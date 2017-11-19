@@ -1,7 +1,9 @@
 # game-database
-# Copy the name of the file you want, click  on the link for the file you want to download!
+# Copy the name of the file you want, click "view on github" (above)
+# press ctrl+f (windows) press ctrl+v (windows)
+#  then click the link, and click download raw. run the file and enjoy
 <a href="/NikMcNik/game-database/blob/master/___________5-miles-2-go.swf">
-  <a href="______________18-wheeler-3.swf" </a>
+
 <p>______________18-wheeler-3.swf</p>
 <p>______________3dmissle (1).swf</p>
 <p>______________3dmissle.swf</p>
