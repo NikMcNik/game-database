@@ -1,7 +1,7 @@
 # game-database
 # Copy the name of the file you want, click "view on github" (above)
 # press ctrl+f (windows) press ctrl+v (windows)
-#  then click the link, and click download raw. run the file and enjoy
+#  then click the highlighted link, and click download raw. run the file and enjoy
 
 <p>______________18-wheeler-3.swf</p>
 <p>______________3dmissle (1).swf</p>
